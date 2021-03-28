@@ -1,6 +1,7 @@
-
-
-print("Hello World, Hola Mundo, Merhaba, Zdravo, Nihao, Anyonghaseo, Konnichiwa
-")
+a = """Hello World
+Zdravo
+Hola Mundo
+Konnichiwa"""
+print(a)
 
 
